@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lARke1rsy+SgTAGEeuYsRkhn0uwNb40bihXnPD3CaKE=",
+  "Source": "db_siswa_api",
+  "BasePath": "_content/db_siswa_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
